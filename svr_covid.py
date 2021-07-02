@@ -124,4 +124,4 @@ st.write("Prediction Graph")
 st.line_chart(fdf)
 
 
-st.write("Made by Ayesha Falak using Supervised Machine Learning ")
+st.write("Made by Suyash Pratap Singh using Supervised Machine Learning ")
